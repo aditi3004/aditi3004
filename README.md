@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
-<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*pYJar6AxR4E6tXuD.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi3004&label=Profile%20views&color=0e75b6&style=flat" alt="aditi3004" /> </p>
 
 - 🌱 I’m currently learning **Backend, ReactJS**
