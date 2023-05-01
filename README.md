@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*pYJar6AxR4E6tXuD.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi3004&label=Profile%20views&color=0e75b6&style=flat" alt="aditi3004" /> </p>
 
-- 🌱 I’m currently learning **ML and Deep Learning.**
+- 🌱 I’m currently learning **ML, MySql,MongoDB.**
 
 - 📫 How to reach me **aditi.sharma1@cumminscollege.in**
 
